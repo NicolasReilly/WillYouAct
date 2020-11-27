@@ -21,5 +21,35 @@ Nicola D'Elia-Zotta s'occupe de l'ambiance sonore à partir du logiciel Reaper.
 
 Tim-Benjamin Leblanc et Justin Potvin Ambrocio s'occupe de l'aspect visuel. Tim fait le montage offline et Justin le montage online.
 
+## Objectifs pour le Protoype 3 
+
+Unity:
+
+* Interaction du bouton
+* Gestion de la logique des vidéos (déroulementt, ratio et lecture)
+* Intégration de la lumière dans la logique des vidéos
+
+Son: 
+
+* Compléter les bandes sonores pour l'intégration à la scène
+* Établir un storyboard sonore
+* Zotero
+  * Classer les sons
+
+Vidéo: 
+
+* Finissions des montages
+  * Rajouter des textes sur les vidéos
+* Trouver d'autres vidéos pour l'intégration dans la scène
+
+Scénarisation: 
+
+* Déterminé les sons en accord avec les vidéos
+* Introduction et conclusion
+
+Web:
+
+* Intégration en web
+* Bibliographie
 
 
