@@ -32,9 +32,9 @@ Unity:
 Son: 
 
 * Compléter les bandes sonores pour l'intégration à la scène
-* Établir un storyboard sonore
 * Zotero
   * Classer les sons
+* Établir un storyboard sonore
 
 Vidéo: 
 
