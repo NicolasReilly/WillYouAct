@@ -23,31 +23,31 @@ Tim-Benjamin Leblanc et Justin Potvin Ambrocio s'occupe de l'aspect visuel. Tim 
 
 ## Objectifs pour le Protoype 3 
 
-Unity:
+### Unity
 
 * Interaction du bouton
 * Gestion de la logique des vidéos (déroulement, ratio et lecture)
 * Intégration de la lumière dans la logique des vidéos
 
-Son: 
+### Son 
 
 * Compléter les bandes sonores pour l'intégration à la scène
 * Zotero
   * Classer les sons
 * Établir un storyboard sonore
 
-Vidéo: 
+### Vidéo
 
 * Finitions des montages
   * Rajouter des textes sur les vidéos
 * Trouver d'autres vidéos pour l'intégration dans la scène
 
-Scénarisation: 
+### Scénarisation 
 
 * Déterminé les sons en accord avec les vidéos
 * Introduction et conclusion
 
-Web:
+### Web
 
 * Intégration en web
 * Bibliographie
