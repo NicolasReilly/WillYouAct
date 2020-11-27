@@ -6,7 +6,7 @@ _Will You Act_ est une experience interactive qui donne le choix aux participant
 
 ## Installation
 
-À la base, _Will You Act_ était une expérience dans le réel mais à cause de la situation actuelle, nous avons mis l'expérience dans Unity et nous sommes entrain de débattre si on veut le faire sur le Web ou en un logiciel standalone. On travaille actuellement 
+À la base, _Will You Act_ était une expérience dans le réel mais à cause de la situation actuelle, nous avons mis l'expérience dans Unity et nous sommes entrain de débattre si on veut le faire sur le Web ou en un logiciel standalone. On travaille actuellement pour faire une adaption en XR.
 
 ## Équipe
 
