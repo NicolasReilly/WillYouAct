@@ -8,6 +8,9 @@ _Will You Act_ est une experience interactive qui donne le choix aux participant
 
 À la base, _Will You Act_ était une expérience dans le réel mais à cause de la situation actuelle, nous avons mis l'expérience dans Unity et nous sommes entrain de débattre si on veut le faire sur le Web ou en un logiciel standalone. On travaille actuellement pour faire une adaption en XR.
 
+<img src="https://i.imgur.com/QaA6F31.png" alt="image dans la réalité virtuelle">
+<img src="https://i.imgur.com/prMPTG9.png" alt="outside view of the unity project">
+
 ## Équipe
 
 L'équipe est composée de Kemyan Amoussou, Nicola D'Elia-Zotta, Tim-Benjamin Leblanc, Justin Potvin Ambrocio et Nicolas Reilly
