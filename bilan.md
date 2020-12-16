@@ -13,7 +13,7 @@ On a tout d'abord noté les idées et par la suite, on s'est concentré sur des 
 ## Utilisation de logiciels et d'outils de remue-méninge
 On a noté les idées sur papier.
 ## Reconnaissance des objectifs et de la structure du scénario
-On devait trouvé des vidéos et des 
+On devait trouver des vidéos, de la musique et des extraits audio qui nous aideraient à mettre une ambiance propre au projet et au différents scénarios. 
 ## Découpage scénarimage
 
 ## Numérotation de chaque séquence et des médias s'y rattachant
