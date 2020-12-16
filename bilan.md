@@ -5,13 +5,13 @@ Voici le bilan pour le projet "Will You Act" de Kemyan Amoussou, Nicola D'Elia-Z
 ## Dimension et positonnement des médias
 
 ## Définition du projet de départ
-
+À la base, _Will You Act_ était une expérience interractive dans une salle avec trois chaises, une table et un bouton qui donnait le choix au spéctateurs entre deux scénarios. Mais, à cause de la situation actuelle, le projet a été réalisé sur Unity.
 ## Collaboration aux échanges d'idées
-
+Tout l'équipe a participé au processus de l'élaboration du concept.
 ## Utilisation de méthodes de travail en équipe
-
+On a tout d'abord noté les idées et par la suite, on s'est concentré sur des thèmes qui nous inspiraient.
 ## Utilisation de logiciels et d'outils de remue-méninge
-
+On a noté les idées sur papier.
 ## Reconnaissance des objectifs et de la structure du scénario
 
 ## Découpage scénarimage
