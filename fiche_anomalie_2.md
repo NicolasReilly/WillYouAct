@@ -11,7 +11,7 @@
   Les sons doivent provenir de toutes les sorties audio en synchronisation avec les vidéos.
   
 # •	Ce qui arrive plutôt (i.e. l’anomalie).
-  Le son sort d'une première sortie audio et lorsque .
+  Le son sort d'une première sortie audio et lorsqu'un autre son commence pour une autre vidéo, la première sortie audio arrête de jouer et seulement la nouvelle sortie audio joue.
   
 # •	Les messages d’erreurs et les pistes pour pouvoir régler l’anomalie.
-  Après maintes recherches pour une solution, la piste la plus optimale et efficace serais d’opté pour une exportation en application standalone qui fonctionne parfaitement.
+  Aucun message d'erreur dans la console et pour régler l'anomalie, on va faire jouer les sons dirrectement sur les écrans des vidéos.
