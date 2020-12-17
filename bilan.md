@@ -33,12 +33,12 @@ On devait trouver des vidéos, de la musique et des extraits audio qui nous aide
 ## Détermination des ressources humaines
 
 ## Choix des logiciels, de l'équipement et des techniques
-
+Pour le son, Nicola a utilisé Reaper. Pour la vidéo, Justin a utilisé DaVinci Resolve. Pour l'aspect interractif, Kemyan et Nicolas ont utilisés Untiy et Visual Studio.
 ## Organigramme de la programmation
 
 ## Normes de programmation
 
-## Classementt des fichiers
+## Classement des fichiers
 
 ## Échéancier de production
 
