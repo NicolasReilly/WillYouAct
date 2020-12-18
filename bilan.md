@@ -3,7 +3,7 @@
 Voici le bilan pour le projet "Will You Act" de Kemyan Amoussou, Nicola D'Elia-Zotta, Justin Potvin Amboricio et Nicolas Reilly.
 
 ## Dimension et positonnement des médias
-
+On a trois murs qui ont des vidéos et on à des haut-parleurs partout dans la salle. Nous n'avons pas de dimensions.
 ## Définition du projet de départ
 À la base, _Will You Act_ était une expérience interractive dans une salle avec trois chaises, une table et un bouton qui donnait le choix au spéctateurs entre deux scénarios. Mais, à cause de la situation actuelle, le projet a été réalisé sur Unity.
 ## Collaboration aux échanges d'idées
@@ -15,15 +15,38 @@ On a noté les idées sur papier.
 ## Reconnaissance des objectifs et de la structure du scénario
 On devait trouver des vidéos, de la musique et des extraits audio qui nous aideraient à mettre une ambiance propre au projet et au différents scénarios. 
 ## Découpage scénarimage
-
+Les premières vidéos qui sont sur les trois murs de la pièce. À la fin de ceux-ci, on voit un chronomètre sur l'écran du centre. Si on appuie sur le bouton, une vidéo apparait. La même chose arrive si on ne clique pas sur le bouton.
 ## Numérotation de chaque séquence et des médias s'y rattachant
+### Vidéos
+1) Vidéo sur l'enviornment va sur le mur de gauche. 
+2) Vidéo sur Black Lives Matters va sur le mur du millieu. 
+3) Vidéo sur l'Arménie va sur le mur de droite. 
+4) Vidéo du chronomètre va sur le mur du millieu. 
+5) La vidéo de la bonne fin va sur le mur du millieu. 
+6) La vidéo de la mauvaise fin va sur le mur du millieu
+
+### Sons
+1) Bande son pour la vidéo sur l'envionment.
+2) Bande son pour la vidéo sur Black Lives Maters.
+3) Bande son pour la vidéo sur l'Arménie.
+4) Bande son pour la vidéo de la bonne fin.
+5) Bande son pour la vidéo de la mauvaise fin.
+6) Effet sonore de la porte qui ferme.
 
 ## Identification des éléments du design et de la navigation
-
+* La table
+* Le bouton sur la table,
+* La chaise
+* La _spotlight_.
+ On ne peux pas naviguer mais on peut regarder autour de la salle avec la souris.
 ## Inventaire des médias
-
+* 6 vidéos 
+* 6 bandes sons.
 ## Détermination des fonctionnalités et des technologies requises
-
+* On doit pouvoir regarder autour de la salle
+* Pouvoir programmer quand est-ce que les vidéos et les sons commencent/finissent.
+* Pouvoir appuyer sur le bouton.
+* _Spotlight_ s'active quand qu'il faut faire un choix.
 ## Schématisation
 
 ## Détermination des spécifiactions et des contraintes techniques du projet
@@ -31,16 +54,21 @@ On devait trouver des vidéos, de la musique et des extraits audio qui nous aide
 ## Détermination des performances techniques en fonction des exigences du projet
 
 ## Détermination des ressources humaines
-
+* Nicola D'Elia-Zotta était en charge de l'aspect sonore 
+* Justin Potvin Ambrocio était en charge de l'aspect visuel
+* Kemyan Amoussou et Nicolas Reilly étaient en charge de l'aspect technique et de Unity
 ## Choix des logiciels, de l'équipement et des techniques
-Pour le son, Nicola a utilisé Reaper. Pour la vidéo, Justin a utilisé DaVinci Resolve. Pour l'aspect interractif, Kemyan et Nicolas ont utilisés Untiy et Visual Studio.
+* Pour le son, Nicola a utilisé Reaper 
+* Pour la vidéo, Justin a utilisé DaVinci Resolve.
+* Pour l'aspect interractif, Kemyan et Nicolas ont utilisés Unity et Visual Studio
 ## Organigramme de la programmation
 
 ## Normes de programmation
-
+Les mêmes normes que nous avons appris lors de la technique donc, pas de majuscule au début, pas utiliser le même nom pour des fonctions différentes, etc. 
 ## Classement des fichiers
 
 ## Échéancier de production
+<img src="https://i.imgur.com/K85L3RC.png" alt="Échéancier de production">
 
 ## Proposition d'adaptations au scénario et au scénarimage
 
@@ -49,6 +77,6 @@ Pour le son, Nicola a utilisé Reaper. Pour la vidéo, Justin a utilisé DaVinci
 ## Modification du scénario et justification
 
 ## Détermination de la stratégie de montage
-
+On a voulu que le montage soit impactant et donne des émotions fortes à ceux qui participent à l'expérience interactive donc Justin s'est orienté vers un monatage rapide et de mettre de l'enphase sur certaines vidéos.
 ## Justification de l'échéancier de production
-
+L'équipe a jugée que c'était un échéancier juste et réaliste pour finir le projet à la date dû.
