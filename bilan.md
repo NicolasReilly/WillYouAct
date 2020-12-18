@@ -1,19 +1,19 @@
 # Bilan du projet "Will You Act"
 
-Voici le bilan pour le projet "Will You Act" de Kemyan Amoussou, Nicola D'Elia-Zotta, Justin Potvin Amboricio et Nicolas Reilly.
+Voici le bilan pour le projet "Will You Act" de Kemyan Amoussou, Nicola D'Elia-Zotta, Justin Potvin Ambrocio et Nicolas Reilly.
 
 ## Dimension et positonnement des médias
-On a trois murs qui ont des vidéos et on à des haut-parleurs partout dans la salle. Nous n'avons pas de dimensions.
+On a trois murs qui ont des vidéos et on a des haut-parleurs partout dans la salle. Nous n'avons pas de dimensions.
 ## Définition du projet de départ
-À la base, _Will You Act_ était une expérience interractive dans une salle avec trois chaises, une table et un bouton qui donnait le choix au spéctateurs entre deux scénarios. Mais, à cause de la situation actuelle, le projet a été réalisé sur Unity.
+À la base, _Will You Act_ était une expérience interactive dans une salle avec trois chaises, une table et un bouton qui donnait le choix aux spéctateurs entre deux scénarios. Mais, à cause de la situation actuelle, le projet a été réalisé sur Unity.
 ## Collaboration aux échanges d'idées
-Tout l'équipe a participé au processus de l'élaboration du concept. Nous avons discuté un peu sur l'actualité et de là, nous nous sommes rendus sur des sujets qui étaient importants pour nous.
+Toute l'équipe a participé au processus de l'élaboration du concept. Nous en avons discuté un peu sur l'actualité et de là, nous nous sommes rendus sur des sujets qui étaient importants pour nous.
 ## Utilisation de méthodes de travail en équipe
 On a tout d'abord noté les idées et par la suite, on s'est concentré sur des thèmes qui nous inspiraient.
 ## Utilisation de logiciels et d'outils de remue-méninge
-On a noté les idées sur papier, dans un document word et nous avons fait un plan dans draw.io.
+On a noté les idées sur papier, ensuite dans un document word et nous avons fait un plan dans draw.io.
 ## Reconnaissance des objectifs et de la structure du scénario
-On devait trouver des vidéos, de la musique et des extraits audio qui nous aideraient à mettre une ambiance propre au projet et au différents scénarios. 
+On devait trouver des vidéos, de la musique et des extraits audio qui nous aideraient à mettre une ambiance propre au projet et aux différents scénarios. 
 ## Découpage scénarimage
 Les premières vidéos qui sont sur les trois murs de la pièce. À la fin de ceux-ci, on voit un chronomètre sur l'écran du centre. Si on appuie sur le bouton, une vidéo apparait. La même chose arrive si on ne clique pas sur le bouton.
 ## Numérotation de chaque séquence et des médias s'y rattachant
@@ -26,8 +26,8 @@ Les premières vidéos qui sont sur les trois murs de la pièce. À la fin de ce
 6) La vidéo de la mauvaise fin va sur le mur du millieu
 
 ### Sons
-1) Bande son pour la vidéo sur l'envionment.
-2) Bande son pour la vidéo sur Black Lives Maters.
+1) Bande son pour la vidéo sur l'environment.
+2) Bande son pour la vidéo sur Black Lives Matters.
 3) Bande son pour la vidéo sur l'Arménie.
 4) Bande son pour la vidéo de la bonne fin.
 5) Bande son pour la vidéo de la mauvaise fin.
@@ -54,17 +54,17 @@ Les premières vidéos qui sont sur les trois murs de la pièce. À la fin de ce
 ## Détermination des performances techniques en fonction des exigences du projet
 
 ## Détermination des ressources humaines
-* Nicola D'Elia-Zotta était en charge de l'aspect sonore 
-* Justin Potvin Ambrocio était en charge de l'aspect visuel
-* Kemyan Amoussou et Nicolas Reilly étaient en charge de l'aspect technique et de Unity
+* Nicola D'Elia-Zotta était en charge de l'aspect sonore.
+* Justin Potvin Ambrocio était en charge de l'aspect visuel.
+* Kemyan Amoussou et Nicolas Reilly étaient en charge de l'aspect technique et de Unity.
 ## Choix des logiciels, de l'équipement et des techniques
-* Pour le son, Nicola a utilisé Reaper 
+* Pour le son, Nicola a utilisé Reaper.
 * Pour la vidéo, Justin a utilisé DaVinci Resolve.
-* Pour l'aspect interractif, Kemyan et Nicolas ont utilisés Unity et Visual Studio
+* Pour l'aspect interractif, Kemyan et Nicolas ont utilisés Unity et Visual Studio.
 ## Organigramme de la programmation
 
 ## Normes de programmation
-Les mêmes normes que nous avons appris lors de la technique donc, pas de majuscule au début, pas utiliser le même nom pour des fonctions différentes, etc. 
+Les mêmes normes que nous avons apprises lors de la technique donc, pas de majuscule au début, pas utiliser le même nom pour des fonctions différentes, etc. 
 ## Classement des fichiers
 
 ## Échéancier de production
@@ -77,6 +77,6 @@ Les mêmes normes que nous avons appris lors de la technique donc, pas de majusc
 ## Modification du scénario et justification
 
 ## Détermination de la stratégie de montage
-On a voulu que le montage soit impactant et donne des émotions fortes à ceux qui participent à l'expérience interactive donc Justin s'est orienté vers un monatage rapide et de mettre de l'enphase sur certaines vidéos.
+On a voulu que le montage soit impactant et donne des émotions fortes à ceux qui participent à l'expérience interactive donc Justin s'est orienté vers un monatage rapide et de mettre de l'enphase sur certaines vidéos avec une montée de vitesse graduelle.
 ## Justification de l'échéancier de production
-L'équipe a jugée que c'était un échéancier juste et réaliste pour finir le projet à la date dû.
+L'équipe s'est entendue et a jugée que c'était un échéancier juste et réaliste pour finir le projet à la date dû.
