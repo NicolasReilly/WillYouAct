@@ -11,7 +11,7 @@ Tout l'équipe a participé au processus de l'élaboration du concept. Nous avon
 ## Utilisation de méthodes de travail en équipe
 On a tout d'abord noté les idées et par la suite, on s'est concentré sur des thèmes qui nous inspiraient.
 ## Utilisation de logiciels et d'outils de remue-méninge
-On a noté les idées sur papier.
+On a noté les idées sur papier, dans un document word et nous avons fait un plan dans draw.io.
 ## Reconnaissance des objectifs et de la structure du scénario
 On devait trouver des vidéos, de la musique et des extraits audio qui nous aideraient à mettre une ambiance propre au projet et au différents scénarios. 
 ## Découpage scénarimage
