@@ -18,7 +18,7 @@ On devait trouver des vidéos, de la musique et des extraits audio qui nous aide
 Les premières vidéos qui sont sur les trois murs de la pièce. À la fin de ceux-ci, on voit un chronomètre sur l'écran du centre. Si on appuie sur le bouton, une vidéo apparait. La même chose arrive si on ne clique pas sur le bouton.
 ## Numérotation de chaque séquence et des médias s'y rattachant
 ### Vidéos
-1) Vidéo sur l'enviornment va sur le mur de gauche. 
+1) Vidéo sur l'environment va sur le mur de gauche. 
 2) Vidéo sur Black Lives Matters va sur le mur du millieu. 
 3) Vidéo sur l'Arménie va sur le mur de droite. 
 4) Vidéo du chronomètre va sur le mur du millieu. 
