@@ -48,11 +48,12 @@ Les premières vidéos qui sont sur les trois murs de la pièce. À la fin de ce
 * Pouvoir appuyer sur le bouton.
 * _Spotlight_ s'active quand qu'il faut faire un choix.
 ## Schématisation
+<img src="https://i.imgur.com/L64wDlW.png" alt="schema">
 
 ## Détermination des spécifiactions et des contraintes techniques du projet
-
+Le projet dépends sur les vidéos et la performance de ceux-ci. Les vidéos devaient être fluides et ils doivent être d'une bonne résolution. Il faut aussi qu'ils soient synchronisés avec le son.
 ## Détermination des performances techniques en fonction des exigences du projet
-
+Le projet doit être capable de tourner sur à peu près tout les machines donc on devait l'optimiser un petit peu. On avait planifié de le mettre en WebGl mais nous avons opté pour un programme _standalone_.
 ## Détermination des ressources humaines
 * Nicola D'Elia-Zotta était en charge de l'aspect sonore.
 * Justin Potvin Ambrocio était en charge de l'aspect visuel.
@@ -62,20 +63,24 @@ Les premières vidéos qui sont sur les trois murs de la pièce. À la fin de ce
 * Pour la vidéo, Justin a utilisé DaVinci Resolve.
 * Pour l'aspect interractif, Kemyan et Nicolas ont utilisés Unity et Visual Studio.
 ## Organigramme de la programmation
+<img src="https://i.imgur.com/aLyhFB4.png" alt="org_prog">
 
 ## Normes de programmation
 Les mêmes normes que nous avons apprises lors de la technique donc, pas de majuscule au début, pas utiliser le même nom pour des fonctions différentes, etc. 
+
 ## Classement des fichiers
+<img src="https://i.imgur.com/xe2k9xY.png" alt="fichier_01">
+<img src="https://i.imgur.com/NOabZb4.png" alt="fichier_02">
 
 ## Échéancier de production
 <img src="https://i.imgur.com/K85L3RC.png" alt="Échéancier de production">
 
 ## Proposition d'adaptations au scénario et au scénarimage
-
+Il fallait qu'on accélère un peu l'expérience donc nous avons réduit le temps du chronomètre et de chaques vidéos. Les vidéos font tous plus ou moins deux minutes pour garder le dynamisme mais quand même donner le temps au spectateur le temps de prendre conscience de ce qu'ils voient dans l'expérience.
 ## Établissement de relation entre les objectifs du scénario et les ressources disponibles
 
 ## Modification du scénario et justification
-
+On a fait que les vidéos puissent finir en même temps pendant l'expérience. Donc, la vidéo sur l'environment fait plus longtemps que celle sur l'Arménie mais les deux finissent en même temps.
 ## Détermination de la stratégie de montage
 On a voulu que le montage soit impactant et donne des émotions fortes à ceux qui participent à l'expérience interactive donc Justin s'est orienté vers un monatage rapide et de mettre de l'enphase sur certaines vidéos avec une montée de vitesse graduelle.
 ## Justification de l'échéancier de production
