@@ -1,4 +1,4 @@
-# Journal de Amoussou Kemyan
+# Journal de Kemyan Amoussou 
 
 ## Table des matières
 - [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
