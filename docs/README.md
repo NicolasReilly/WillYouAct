@@ -1,4 +1,4 @@
-# Dossier de documentation du projet *66B-modele_de_projet*
+# Dossier de documentation du projet WillYouAct
 
 Dans ce dossier, on retrouve:
 
