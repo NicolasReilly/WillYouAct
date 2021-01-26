@@ -1,4 +1,4 @@
-# Journal de "Étudiant 2"
+# Journal de Nicolas Reilly
 
 ## Table des matières
 - [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
