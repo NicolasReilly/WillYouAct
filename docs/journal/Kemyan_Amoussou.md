@@ -17,7 +17,7 @@
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Test-Test](medias/Plan.png)
+![Test-Test](Plan.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
