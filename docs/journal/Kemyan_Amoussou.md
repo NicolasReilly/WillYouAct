@@ -45,7 +45,7 @@ L'intégration est adéquate.
 -
 
 ### Défis pour la prochaine semaine
-Début de la préproduction
+Avancement de la préproduction
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
