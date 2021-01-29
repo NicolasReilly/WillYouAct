@@ -14,10 +14,10 @@
 
 ### Résumé des réalisations effectuées
 - Test pour l'élément a ajouté.
-
+- Léger debut de la préproduction 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/Plan.png)
+![PlanSimple](medias/Plan.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
@@ -29,7 +29,7 @@
 L'intégration est adéquate. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+-
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -39,13 +39,13 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Test 
+-
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Rien c'est juste un test
+-
 
 ### Défis pour la prochaine semaine
-Avoir quelque chose a rajouter 
+Début de la préproduction
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
@@ -53,7 +53,6 @@ Avoir quelque chose a rajouter
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
