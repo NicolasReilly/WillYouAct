@@ -34,11 +34,14 @@ _Will You Act_ est une expérience interactive qui donne le choix aux participan
 Par ce projet, nous souhaitons sensibiliser les participants à penser à tout ce qui pourrait être injuste comme situation et faire des efforts pour les régler.
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+> Une grande inspiration du projet Manifesto de Julian Rosefeldt
+![moodboard](medias/Moodboard.png)
 
-> Insérez directement des captures d'écran et liens vers des médias ici.
+> Une grande inspiration du projet Manifesto de Julian Rosefeldt
 ![imageUn](medias/Julian_manifesto_1.jpg)
-![imageDeux](medias/Julian_manifesto_3.jpg)
+![imageDeux](medias/Julian_manifesto_2.jpg)
+![imageTrois](medias/Julian_manifesto_3.jpg)
+![imageQuatre](medias/Julian_manifesto_4.jpg)
 
 [Julian Rosefeldt : Manifesto](https://macm.org/expositions/julian-rosefeldt-manifesto/)
 
