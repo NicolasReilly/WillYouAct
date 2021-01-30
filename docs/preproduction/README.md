@@ -37,8 +37,10 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
+![imageUn](medias/Julian_manifesto_1.jpg)
+![imageDeux](medias/Julian_manifesto_3.jpg)
 
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
+[Julian Rosefeldt : Manifesto](https://macm.org/expositions/julian-rosefeldt-manifesto/)
 
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
@@ -46,18 +48,16 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-- ...
+- ~ 5 montages d'image pour la promotion/ documentation du projet
+- 4 paysages sonores
+- 4 montages vidéos pour les projections
+- 1 texte de sensibilisation
+- 6 modules multimédias (captation des données, interprétation des données, contrôle d'éclairage, *effets audiovisuels*, contrôle vidéo, diffusion et interaction en ligne).
 
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+Pour plus de détails: [Inventaire](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/1821965_cmontmorency_qc_ca/_layouts/15/Doc.aspx?sourcedoc=%7B97CA40C7-58BF-48A9-8DA7-748A44BCEE0E%7D&file=Classeur%201.xlsx&action=editnew&mobileredirect=true&wdNewAndOpenCt=1612045318799&ct=1612045318799&wdPreviousSession=f7207eee-5285-4805-a1f4-36e762e6fec0&wdOrigin=OFFICECOM-WEB.START.NEW)
 
 ## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
+Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/1821965_cmontmorency_qc_ca/_layouts/15/Doc.aspx?sourcedoc=%7B97CA40C7-58BF-48A9-8DA7-748A44BCEE0E%7D&file=Classeur%201.xlsx&action=editnew&mobileredirect=true&wdNewAndOpenCt=1612045318799&ct=1612045318799&wdPreviousSession=f7207eee-5285-4805-a1f4-36e762e6fec0&wdOrigin=OFFICECOM-WEB.START.NEW).
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
@@ -69,7 +69,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![exemple de plantation](medias/Plan.png)
+![plantation](medias/Plan.png)
 
 ## Matériel de scénographie requis
 
@@ -83,14 +83,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
+    * 4 haut-parleurs actifs de 4"
     * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * Interface audio USB disposant 4 sorties 
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
+    * 3 projecteurs vidéo *lentille standard*
     * 2 système d'acrochage
-    * 3 webcam logitech c920
 
 * Lumière
     * 4 lumière LED RGBAW DMX
@@ -120,6 +119,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * [node-osc](https://github.com/MylesBorins/node-osc)
 * [Max 8](https://cycling74.com/products/max)   
 * [Unity 2019 lts](https://unity.com/)
+* [VisualStudioCode](https://code.visualstudio.com/)
+* [Arduino](https://www.arduino.cc/)
+* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 
 ## Ressources humaines requises
@@ -130,14 +132,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ## Ressources spatiales requises (rangement et locaux)
 > Moments et spécifications des espaces utilisés formaté en liste ou lien vers un tableur Excel.
-
-* Grand studio
-    * 32 janvier au 35 janvier
-        * Projection vidéo dans le cyclo
-        * 6 heures
-    * 37 janvier au 39 janvier 
-        * Capatation vidéo
-        * 4 heures
 
 * Petit studio
     * 42 janvier au 56 janvier 
@@ -179,7 +173,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant D**
+**Étudiant D** -> *Nico.Del* 
 - Comité Technique et coordination technique (suivi du devis technique);
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
@@ -189,7 +183,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant C**
+**Étudiant C** -> *KemyanA.* 
 - Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
@@ -199,7 +193,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant B**
+**Étudiant B** -> *Nico.Reilly* 
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Création des textes poétiques;
 - Création des vidéos d'animation 2D;
@@ -209,7 +203,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant A**
+**Étudiant A** -> *JustinP.* 
 - Création des images;
 - Création des icônes de navigation;
 - Programmation du module Max d'éclairage;
@@ -224,10 +218,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Quotidien
-- **Chaque jour 9h00 (30min max)**: Rencontre statutaire d'équipe pour régler les urgences
+- **Chaque jour à une heure convenue au préalable ( ~ 30min - 1heure )**: Rencontre statutaire d'équipe pour régler les urgences / Avancer le projet dans un environnement de travail.
 
 Hebdomadaire
-- **Mardi "x"h (environ 1h)** : Rencontre d'équipe avec professeur
+- **Mardi "14"h (environ 1h)** : Rencontre d'équipe avec professeur
 - **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
 - **Vendredi 13h (environ 2h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
 
