@@ -33,8 +33,8 @@ _Will You Act_ est une expérience interactive qui donne le choix aux participan
 ## Intention de départ
 Par ce projet, nous souhaitons sensibiliser les participants à penser à tout ce qui pourrait être injuste comme situation et faire des efforts pour les régler.
 
-## Tableau d'ambiance (*moodboard*)
-> Une grande inspiration du projet Manifesto de Julian Rosefeldt
+## Tableau d'ambiance
+> Moodboard
 ![moodboard](medias/Moodboard.png)
 
 > Une grande inspiration du projet Manifesto de Julian Rosefeldt
