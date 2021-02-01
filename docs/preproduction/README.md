@@ -31,7 +31,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 
 ## Tableau d'ambiance
 > Moodboard
-![moodboard](medias/Moodboard.png)
+![moodboard](medias/Moodboard.jpg)
 
 > Une grande inspiration du projet Manifesto de Julian Rosefeldt
 ![imageUn](medias/Julian_manifesto_1.jpg)
