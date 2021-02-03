@@ -145,10 +145,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+https://github.com/NicolasReilly/WillYouAct/projects/1
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/NicolasReilly/WillYouAct/issues?q=is%3Aopen+is%3Aissue
 
 ## Rôles et responsabilités des membres de l'équipe
 
@@ -157,16 +157,14 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 - Aide aux différents étudiants pour tout type de taches notamment la programmation du patcher Max et l'intégration de Madmapper.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/NicolasReilly/WillYouAct/issues/assigned/MoumouK
 
 **Étudiant B** -> *Nico.Reilly* 
 - Comité Technique et coordination technique (suivi du devis technique);
 - Programmation du patcher Max pour jouer les videos/sons ;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/NicolasReilly/WillYouAct/issues/assigned/NicolasReilly
 
 **Étudiant C** -> *Nico.Del* 
 - Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);
@@ -175,8 +173,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Production d'ambiance sonore;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/NicolasReilly/WillYouAct/issues/assigned/shnicovelli
 
 **Étudiant D** -> *JustinP.*
 - Coordination artistique;
@@ -185,8 +182,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Création des images pour la promotion du projet;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/NicolasReilly/WillYouAct/issues/assigned/Vivxds
 
 ## Moments des rencontres d'équipe
 Quotidien
