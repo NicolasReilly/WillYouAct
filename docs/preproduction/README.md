@@ -122,6 +122,7 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
 * [Arduino](https://www.arduino.cc/)
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
+* [Reaper](https://www.reaper.fm/)
 
 ## Ressources humaines requises
 > Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
