@@ -13,19 +13,12 @@
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Commencer la documentation pour le projet 
+- Regarder le matériel multimédia que nous avons déjà
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-ou
 
-ou
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -35,10 +28,10 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Je me remets dans le bain petit à petit.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -48,18 +41,20 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Me remettre dans le bain le plus rapidement possible pour être le plus efficace en ce début de session.
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
-
+- Réservation du studio
+- Regarder les médias que j'ai
+- Faire la préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -68,19 +63,19 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réserver le studio assez tôt pour pouvoir une idée claire de ce qu'on veut faire en physique ce qui va faire avancer notre projet vers une bonne direction.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -92,7 +87,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 
 
 ### Défis pour la prochaine semaine
-
+Recommencer la recherche de médias pour les ambiances sonores.
 
 ---
 ## Semaine 2 (6 au 12 février)
