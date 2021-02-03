@@ -27,7 +27,7 @@
 _Will You Act_ est une expérience interactive qui donne le choix aux participants d'interagir avec le monde qui leur est présenté.C’est une expérience immersive et interactive qui sensibiliseras contre les injustices envers l’individu avec des projections et le choix de pouvoir « ACT ».
 
 ## Intention de départ
-Par ce projet, nous souhaitons sensibiliser les participants à penser à tout ce qui pourrait être injuste comme situation et faire des efforts pour les régler.
+Par ce projet, nous souhaitons sensibiliser les participants à penser à tout ce qui pourrait être considéré comme injustice au niveau racial, social. Nous visons donc quelque part un rassemblement de nos participants à comme un semblant de lutte populaire.  
 
 ## Tableau d'ambiance
 > Moodboard
@@ -164,61 +164,49 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique, à la coordination de la diffusion et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors des rencontres d'équipe quotidiennes et hebdomadaires. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Étudiant E**
+**Étudiant A** -> *KemyanA.*
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du module d'interprétation des données;
-- Programmation du module Max de contrôle vidéo.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Étudiant D** -> *Nico.Del* 
-- Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
-- Installation de l'équipement dans l'espace physique.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
-
-**Étudiant C** -> *KemyanA.* 
-- Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
+- Aide aux différents étudiants pour tout type de taches notamment la programmation du patcher Max et l'intégration de Madmapper.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Étudiant B** -> *Nico.Reilly* 
-- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
+- Comité Technique et coordination technique (suivi du devis technique);
+- Programmation du patcher Max pour jouer les videos/sons ;
+- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant A** -> *JustinP.* 
-- Création des images;
-- Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
+**Étudiant C** -> *Nico.Del* 
+- Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);
+- Installation et mise en place de la capture audiovidéo du projet en temps réel;
+- Production d'ambiance sonore et gestion des réservations 
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+
+**Étudiant D** -> *JustinP.*
+- Coordination artistique;
+- Création des textes de sensibilisation;
+- Montage des différentes vidéos;
+- Création des images pour la promotion du projet;
+- Exploration de Madmapper pour la projection;
+
+Liste des tâches dans Git Hub:  
+https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
+https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
 **Tâches pas encore attribuées**  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Quotidien
-- **Chaque jour à une heure convenue au préalable ( ~ 30min - 1heure )**: Rencontre statutaire d'équipe pour régler les urgences / Avancer le projet dans un environnement de travail.
+- **Chaque jour à 11h30 ( ~ 30min - 1heure )**: Rencontre statutaire d'équipe pour régler les urgences / Avancer le projet dans un environnement de travail.
 
 Hebdomadaire
 - **Mardi "14"h (environ 1h)** : Rencontre d'équipe avec professeur
