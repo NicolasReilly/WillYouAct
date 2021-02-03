@@ -163,7 +163,6 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 **Étudiant B** -> *Nico.Reilly* 
 - Comité Technique et coordination technique (suivi du devis technique);
 - Programmation du patcher Max pour jouer les videos/sons ;
-- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
@@ -171,8 +170,9 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 
 **Étudiant C** -> *Nico.Del* 
 - Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Production d'ambiance sonore et gestion des réservations 
+- Gestion des réservations du studio;
+- Gestion des emprunts;
+- Production d'ambiance sonore;
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
@@ -183,7 +183,6 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Création des textes de sensibilisation;
 - Montage des différentes vidéos;
 - Création des images pour la promotion du projet;
-- Exploration de Madmapper pour la projection;
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
