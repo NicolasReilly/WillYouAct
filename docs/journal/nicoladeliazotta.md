@@ -18,7 +18,7 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image1](medias/journal_ndz_01.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -58,7 +58,7 @@ Me remettre dans le bain le plus rapidement possible pour être le plus efficace
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image2](medias/journal_ndz_02.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
