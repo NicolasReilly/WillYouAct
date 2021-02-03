@@ -136,7 +136,7 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/NicolasReilly/WillYouAct/milestones
 
 *Dates importantes de diffusion :*
 - Pratique générale : 19 mars (toute la journée)
