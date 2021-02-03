@@ -83,28 +83,18 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
 
 * Audio
     * 4 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 4 sorties 
 
 * Vidéo
     * 3 projecteurs vidéo *lentille standard*
-    * 2 système d'acrochage
 
 * Lumière
     * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * A voir
 
 * Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
-
+    * A voir
 * Ordinateur
     * 1 ordinateur portable 
     
@@ -131,12 +121,11 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
 * 35 janvier, TTP, retour du matériel
 
 ## Ressources spatiales requises (rangement et locaux)
-> Moments et spécifications des espaces utilisés formaté en liste ou lien vers un tableur Excel.
 
 * Petit studio
-    * 42 janvier au 56 janvier 
-        * Enregsitrement audio
-        * 8 heures
+    * 8 février 
+        * Reoérage, visualistion de la faisabilité de l'installation 
+        * 3 heures
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
@@ -162,7 +151,6 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 ## Rôles et responsabilités des membres de l'équipe
-> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique, à la coordination de la diffusion et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors des rencontres d'équipe quotidiennes et hebdomadaires. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 **Étudiant A** -> *KemyanA.*
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
@@ -200,9 +188,6 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
-
-**Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Quotidien
