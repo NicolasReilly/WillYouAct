@@ -124,7 +124,7 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
 
 * Petit studio
     * 8 février 
-        * Reoérage, visualistion de la faisabilité de l'installation 
+        * Repérage, visualistion de la faisabilité de l'installation 
         * 3 heures
     
 # Planification de la production (budget et étapes de réalisation)
