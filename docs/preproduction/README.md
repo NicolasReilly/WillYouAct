@@ -64,11 +64,11 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![exemple de schema](medias/Plan plus technique.jpg)
 
 ### Plantation 
 
-![plantation](medias/Plan.png)
+![plantation](Plan.jpg)
 
 ## Matériel de scénographie requis
 
