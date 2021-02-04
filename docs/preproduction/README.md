@@ -73,7 +73,8 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
 
 ### Plantation 
 
-![plantation](medias/Plan.jpg)
+![plantation](medias/Plantation.jpg)
+![plantationdessin](medias/Plan_dessin.jpg)
 
 ## Matériel de scénographie requis
 
