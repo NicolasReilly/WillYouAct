@@ -45,7 +45,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 [Julian Rosefeldt : Manifesto](https://macm.org/expositions/julian-rosefeldt-manifesto/)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+[Scénarios de notre projet](https://cmontmorency365-my.sharepoint.com/:b:/g/personal/1851329_cmontmorency_qc_ca/EWI7CgMJYq9KlOdUfKM4R20BSc3oPG5PZWEp6lApo-3coA?e=YvDhq1)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
