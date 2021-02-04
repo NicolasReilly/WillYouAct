@@ -87,21 +87,24 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 4 haut-parleurs actifs de 4"
+    * 4 Hauts-parleurs Genelec 8010 8"
+    * Cheezboro pour haut-parleurs genelec
 
 * Vidéo
-    * 3 projecteurs vidéo *lentille standard*
+    * 3 Projecteur standard, ratio 1.5, 3500 lumens
+    * 1 Kinect V1
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
+    * 1 Chauvet DJ EVE E-100Z 100W Warm White Ellipsoidal Spot 
 
 * Électricité
     * A voir
 
 * Réseau
     * A voir
+    
 * Ordinateur
-    * 1 ordinateur portable 
+    * 1 Ordinateur portable PC avec Dragon Frame - Keypad Dragon Frame
     
 * Autre
     * Tout autre élément pertinant
