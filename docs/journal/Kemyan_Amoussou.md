@@ -50,39 +50,39 @@ Avancement de la préproduction
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
-
+Travail sur le synopsis, l'intention de départ, le moodboard, les plans et la distributions des taches et rôles. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![PlanSimple](medias/Plantation.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ La préproduction est relativement complet.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
-
+Rencontre au cegep pour planification du prototype en studio 
 
 ---
 ## Semaine 2 (6 au 12 février)
