@@ -10,6 +10,7 @@
     - [Univers artistique des éléments](#Univers-artistique-des-éléments-centraux)
 3. [Planification technique (devis technique)](#Planification-technique-(devis-technique))
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
+    - [Schéma de branchement](#Schéma-de-branchement)
     - [Plantation](#Plantation)
     - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
