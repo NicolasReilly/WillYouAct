@@ -88,10 +88,11 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
 
 * Audio
     * 4 Hauts-parleurs Genelec 8010 8"
-    * Cheezboro pour haut-parleurs genelec
+    * 4 Cheezboro pour haut-parleurs genelec
 
 * Vidéo
     * 3 Projecteur standard, ratio 1.5, 3500 lumens
+    * 3 Système d'accrochage pour projecteur vidéo
     * 1 Kinect V1
 
 * Lumière
@@ -107,7 +108,7 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
     * 1 Ordinateur portable PC avec Dragon Frame - Keypad Dragon Frame
     
 * Autre
-    * Tout autre élément pertinant
+    * Extension électrique 
 
 ## Logiciels requis
 > Liste des logiciels requis
