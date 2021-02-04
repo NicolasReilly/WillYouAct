@@ -30,11 +30,12 @@ _Will You Act_ est une expérience interactive qui donne le choix aux participan
 Par ce projet, nous souhaitons sensibiliser les participants à penser à tout ce qui pourrait être considéré comme injustice au niveau racial, social. Nous visons donc quelque part un rassemblement de nos participants à comme un semblant de lutte populaire.  
 
 ## Tableau d'ambiance
-> Moodboard
-![moodboard](medias/Moodboard.jpg)
 
 > Exemple d'ambiance sonore
 [Background Music - we cannot defend you](https://youtu.be/0rmXbgHskkQ)
+
+> Moodboard
+![moodboard](medias/Moodboard.jpg)
 
 > Une grande inspiration du projet Manifesto de Julian Rosefeldt
 ![imageUn](medias/Julian_manifesto_1.jpg)
