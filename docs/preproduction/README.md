@@ -34,7 +34,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 ![moodboard](medias/Moodboard.jpg)
 
 > Exemple d'ambiance sonore
-[Exemple Un](https://macm.org/expositions/julian-rosefeldt-manifesto/)
+[Background Music - we cannot defend you](https://youtu.be/0rmXbgHskkQ)
 
 > Une grande inspiration du projet Manifesto de Julian Rosefeldt
 ![imageUn](medias/Julian_manifesto_1.jpg)
@@ -189,7 +189,7 @@ https://github.com/NicolasReilly/WillYouAct/issues/assigned/Vivxds
 
 ## Moments des rencontres d'équipe
 Quotidien
-- **Chaque jour à 11h30 ( ~ 30min - 1heure )**: Rencontre statutaire d'équipe pour régler les urgences / Avancer le projet dans un environnement de travail.
+- **Chaque jour à 13h00 ( ~ 30min - 1heure )**: Rencontre statutaire d'équipe pour régler les urgences / Avancer le projet dans un environnement de travail.
 
 Hebdomadaire
 - **Mardi "14"h (environ 1h)** : Rencontre d'équipe avec professeur
