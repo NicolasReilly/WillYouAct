@@ -63,7 +63,7 @@ Travail sur le synopsis, l'intention de départ, le moodboard, les plans et la d
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- La préproduction est relativement complet.
+ La préproduction est relativement complete.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 x
