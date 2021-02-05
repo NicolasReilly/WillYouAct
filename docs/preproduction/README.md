@@ -48,7 +48,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 [Julian Rosefeldt : Manifesto](https://macm.org/expositions/julian-rosefeldt-manifesto/)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Scénarios de notre projet](https://github.com/NicolasReilly/WillYouAct/raw/main/docs/preproduction/medias/Scenario_pdf.pdf)
+[Scénarios de notre projet](medias/Scenario_pdf.pdf)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
