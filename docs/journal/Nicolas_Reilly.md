@@ -54,9 +54,7 @@
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![patcher max d'activation de vidéo et audio avec la barre d'espace]
-(media/journal_week1_NR.PNG)
-
+![patcher max d'activation de vidéo et audio avec la barre d'espace](medias/journal_week1_NR.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
