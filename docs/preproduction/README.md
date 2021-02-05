@@ -48,7 +48,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 [Julian Rosefeldt : Manifesto](https://macm.org/expositions/julian-rosefeldt-manifesto/)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Scénarios de notre projet](https://cmontmorency365-my.sharepoint.com/:b:/g/personal/1851329_cmontmorency_qc_ca/EWI7CgMJYq9KlOdUfKM4R20BAtAeFdqVU1atga0XSd0T6Q?e=UeQN7F)
+[Scénarios de notre projet](cmontmorency365-my.sharepoint.com/personal/1851329_cmontmorency_qc_ca/Documents/WillYouAct/Scenario_pdf.pdf)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
