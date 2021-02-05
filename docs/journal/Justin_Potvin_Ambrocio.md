@@ -52,39 +52,47 @@ x
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
 
+Travail sur scénario du projet, planification du projet et aide de tâches.
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Scénarios](medias/Journal_jpa_photoshop.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+ Tous les tâches qui ont étés établi pour cette semaine ont été complété et avance notre projet plus qu'assez pour la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+x
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+x
 
 ### Défis pour la prochaine semaine
 
+Rencontre en équipe au cégep pour discuter des mesures et comment tout va se faire en terme d'équipement et emplacement de ceux-ci.
 
 ---
 ## Semaine 2 (6 au 12 février)
