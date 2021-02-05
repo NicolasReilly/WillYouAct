@@ -13,7 +13,7 @@
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-- 
+- Retour sur le Unity de la session passée
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -51,7 +51,8 @@
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
-
+- Création d'un prototype Max pour activer une vidéo et audio à l'aide de la barre d'espace
+- Horaire de réunion d'équipe établi 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![patcher max d'activation de vidéo et audio avec la barre d'espace](medias/journal_week1_NR.PNG)
@@ -65,7 +66,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Pour cette semaine, l'important c'était que je me remette dans les bases de Max8 et de faire un prototype pour le bouton.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -84,7 +85,8 @@
 
 
 ### Défis pour la prochaine semaine
-- 
+- Élaborer le patcher Max 
+- Aller au collège pour les bases du petit studio avec Cédrick
 
 ---
 ## Semaine 2 (6 au 12 février)
