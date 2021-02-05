@@ -14,7 +14,7 @@
 
 ### Résumé des réalisations effectuées
 - Retour sur le Unity de la session passée
-
+- Retour sur le projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](https://camo.githubusercontent.com/ab09afa8c45eb163473da5e9322a9d09234352f359964bb7aa7958de9cd1bcdb/68747470733a2f2f692e696d6775722e636f6d2f70724d505447392e706e67)
@@ -27,10 +27,10 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+Nous n'avions pas établi d'objectifs clairs, donc j'ai pris le temps de revoir notre Unity. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Faire des rencontre plus régulière afin de savoir où est rendu tout le monde.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -46,7 +46,8 @@
 
 
 ### Défis pour la prochaine semaine
-
+- Commencer la productivité pour le projet.
+- Commencer le patcher Max 
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
