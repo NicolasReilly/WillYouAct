@@ -54,6 +54,8 @@
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![patcher max d'activation de vidéo et audio avec la barre d'espace]
+(media/journal_week1_NR.PNG)
 
 
 
