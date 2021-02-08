@@ -54,7 +54,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 ## Inventaire du contenu multimédia
 
 - ~ 5 montages d'image pour la promotion/ documentation du projet
-- 4 paysages sonores
+- 1 paysages sonores
 - 4 montages vidéos pour les projections
 - 1 texte de sensibilisation
 - 6 modules multimédias (captation des données, interprétation des données, contrôle d'éclairage, *effets audiovisuels*, contrôle vidéo, diffusion et interaction en ligne).
@@ -92,7 +92,7 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
     * 4 Cheezboro pour haut-parleurs genelec
 
 * Vidéo
-    * 3 Projecteur standard, ratio 1.5, 3500 lumens
+    * 3 Projecteur standard, ratio 0.5, 3500 lumens
     * 3 Système d'accrochage pour projecteur vidéo
     * 1 Kinect V1
 
