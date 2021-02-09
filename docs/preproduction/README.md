@@ -6,7 +6,6 @@
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
     - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
-    - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
     - [Univers artistique des éléments](#Univers-artistique-des-éléments-centraux)
 3. [Planification technique (devis technique)](#Planification-technique-(devis-technique))
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
@@ -18,7 +17,6 @@
     - [Ressources humaines requises](#Ressources-humaines-requises)
     - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-(rangement-et-locaux))
 4. [Planification de la production (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))
-    - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
@@ -62,7 +60,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 ## Univers artistique des éléments
 Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/1821965_cmontmorency_qc_ca/_layouts/15/Doc.aspx?sourcedoc=%7B97CA40C7-58BF-48A9-8DA7-748A44BCEE0E%7D&file=Classeur%201.xlsx&action=editnew&mobileredirect=true&wdNewAndOpenCt=1612045318799&ct=1612045318799&wdPreviousSession=f7207eee-5285-4805-a1f4-36e762e6fec0&wdOrigin=OFFICECOM-WEB.START.NEW).
 
-# Planification technique (devis technique)
+# Planification technique
 ## Schémas ou plans techniques  
 
 ### Schéma de branchement 
@@ -140,12 +138,7 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
         * Repérage, visualisation de la faisabilité de l'installation 
         * 3 heures
     
-# Planification de la production (budget et étapes de réalisation)
-## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
-
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
-
+# Planification de la production
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
