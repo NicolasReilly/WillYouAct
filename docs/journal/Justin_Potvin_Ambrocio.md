@@ -97,39 +97,44 @@ Rencontre en équipe au cégep pour discuter des mesures et comment tout va se f
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
+-Assemblage systèmes d'accrochage pour projecteur dans le studio.
+-Mesures de cables et emplacements d'équipements dans le studio.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+![Image system accrochage projecteur](medias/Journal_jpa_studio.JPEG)
+
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+C'était ce que je voulais faire pour cette semaine et cela menera à l'avancement du projet. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
+Avancement au niveau de projection et montage vidéo
 
 ---
 ## Semaine 3 (13 au 19 février)
