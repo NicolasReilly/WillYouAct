@@ -203,3 +203,4 @@ Hebdomadaire
 Autre: 
 - **Jeudi 10h (environ 1h30)** : Comité Diffusion
 - **Jeudi 14h (environ 1h30)** : Comité Technique
+- **Jeudi 18 mars (Apres-midi, Soirée) : Pratique générale** 
