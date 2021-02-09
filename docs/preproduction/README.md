@@ -57,8 +57,6 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 - 1 texte de sensibilisation
 - 6 modules multimédias (captation des données, interprétation des données, contrôle d'éclairage, *effets audiovisuels*, contrôle vidéo, diffusion et interaction en ligne).
 
-## Univers artistique des éléments
-Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/1821965_cmontmorency_qc_ca/_layouts/15/Doc.aspx?sourcedoc=%7B97CA40C7-58BF-48A9-8DA7-748A44BCEE0E%7D&file=Classeur%201.xlsx&action=editnew&mobileredirect=true&wdNewAndOpenCt=1612045318799&ct=1612045318799&wdPreviousSession=f7207eee-5285-4805-a1f4-36e762e6fec0&wdOrigin=OFFICECOM-WEB.START.NEW).
 
 # Planification technique
 ## Schémas ou plans techniques  
