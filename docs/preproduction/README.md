@@ -89,41 +89,44 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
     * 1 Carte de son Berhinger U-Phoria 4 in 4 out
 
 * Vidéo
-    * 3 Projecteur short throw, ratio 0.5, 3000 lumens
-    * 3 Système d'accrochage pour projecteur vidéo
+    * 3 Projecteurs short throw, ratio 0.5, 3000 lumens
+    * 3 Systèmes d'accrochage pour projecteur vidéo
     * 1 Kinect V1
 
 * Lumière
     * 1 Chauvet DJ EVE E-100Z 100W Warm White Ellipsoidal Spot 
 
 * Électricité
-    * 1 Extension électricque 
+    * 1 Extension électrique
     * 3 câbles XLR 25'
-    * 3 câbles HDMI 25'
+    * 6 câbles HDMI 10'
     * 1 transformateur DMX USB vers XLR
+    * 3 Adapteurs HDMI-Ethernet (Envoyeur/receveur)
     
 * Réseau
-    * 3 câbles ethernet 25'
-    * 1 transformateur DMX UBB vers ethernet 
+    * 6 câbles ethernet 10'
+    * 1 transformateur DMX UBB vers ethernet
     
 * Ordinateur
     * 1 Desktop PC sur un chariot mobile
     
 * Autre
-    * 1 Kinect V1 
+    * 3 Toiles projecteur
+    
 
 ## Logiciels requis
 > Liste des logiciels requis
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
+* [nodeJS 14.15.4 LTS](https://nodejs.org/en/)
+* [node-osc](https://github.com/MylesBorins/node-osc)
+* [Max 8](https://cycling74.com/products/max)
 * [Unity 2019 lts](https://unity.com/)
 * [VisualStudioCode](https://code.visualstudio.com/)
 * [Arduino](https://www.arduino.cc/)
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 * [Reaper](https://www.reaper.fm/)
+* [Madmapper](https://madmapper.com/)
 
 ## Ressources humaines requises
 > Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
