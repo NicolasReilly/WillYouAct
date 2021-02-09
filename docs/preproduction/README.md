@@ -130,8 +130,8 @@ Voir *Exemples de réalisation* dans l'[Inventaire](https://cmontmorency365-my.s
 ## Ressources humaines requises
 > Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
 
-* 32 janvier, TTP, location de matériel 
-* 35 janvier, TTP, retour du matériel
+* 15 février, TTP, location de matériel 
+* 21 février, TTP, retour du matériel
 
 ## Ressources spatiales requises (rangement et locaux)
 
