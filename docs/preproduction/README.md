@@ -107,9 +107,11 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
     
 * Ordinateur
     * 1 Desktop PC sur un chariot mobile
+    * Raspberry Pi ( Fourni )
     
 * Autre
     * 3 Toiles projecteur
+    * Bouton Arduino ( Fourni ) 
     
 
 ## Logiciels requis
