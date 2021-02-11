@@ -97,7 +97,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 * Électricité
     * 1 Extension électrique
     * 3 câbles XLR 25'
-    * 6 câbles HDMI 10'
+    * 8 câbles HDMI 10'
     * 1 transformateur DMX USB vers XLR
     * 3 Adapteurs HDMI-Ethernet (Envoyeur/receveur)
     
@@ -112,7 +112,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 * Autre
     * 3 Toiles projecteur
     * Bouton Arduino ( Fourni ) 
-    * Sony A6000 + Kit alimentation + Extendeur réseau HDMI + Carte de capture
+    * Sony A6000 + Kit alimentation + Extendeur réseau HDMI + Carte de capture HDMI
     
 
 ## Logiciels requis
