@@ -95,8 +95,8 @@ Recommencer la recherche de médias pour les ambiances sonores.
 Test des haut-parleurs dans le lieu où l'expérience interactive va se passer, recherche pour l'ambiance sonore.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![image3](medias/journal_ndz_w2_01.jpg)
+![image4](medias/journal_ndz_w2_02.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -114,7 +114,7 @@ Test des haut-parleurs dans le lieu où l'expérience interactive va se passer, 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -126,7 +126,9 @@ Test des haut-parleurs dans le lieu où l'expérience interactive va se passer, 
 
 ### Défis pour la prochaine semaine
 Faire une ambiance sonore pour pouvoir la tester avec le set up son dans le lieu.
+
 ---
+
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
 
