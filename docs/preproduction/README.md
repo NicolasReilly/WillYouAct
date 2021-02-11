@@ -103,7 +103,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
     
 * Réseau
     * 6 câbles ethernet 10'
-    * 1 transformateur DMX UBB vers ethernet
+    * 1 transformateur DMX USB vers ethernet
     
 * Ordinateur
     * 1 Desktop PC sur un chariot mobile
@@ -112,6 +112,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 * Autre
     * 3 Toiles projecteur
     * Bouton Arduino ( Fourni ) 
+    * Sony A6000 + Kit alimentation + Extendeur réseau + Carte de capture
     
 
 ## Logiciels requis
