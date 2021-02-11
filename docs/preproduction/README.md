@@ -112,7 +112,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 * Autre
     * 3 Toiles projecteur
     * Bouton Arduino ( Fourni ) 
-    * Sony A6000 + Kit alimentation + Extendeur réseau + Carte de capture
+    * Sony A6000 + Kit alimentation + Extendeur réseau HDMI + Carte de capture
     
 
 ## Logiciels requis
