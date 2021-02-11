@@ -67,7 +67,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 
 ### Plantation 
 
-![plantation](medias/Plantation.jpg)
+![plantation](medias/PlantationUp1.jpg)
 ![plantationdessin](medias/Plan_dessin.jpg)
 
 ## Matériel de scénographie requis
