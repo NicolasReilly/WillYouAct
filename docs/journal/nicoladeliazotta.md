@@ -92,7 +92,7 @@ Recommencer la recherche de médias pour les ambiances sonores.
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
+Test des haut-parleurs dans le lieu où l'expérience interactive va se passer, recherche pour l'ambiance sonore.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -101,12 +101,12 @@ Recommencer la recherche de médias pour les ambiances sonores.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je dois encore faire de la recherche pour le son
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -114,7 +114,7 @@ Recommencer la recherche de médias pour les ambiances sonores.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -125,7 +125,7 @@ Recommencer la recherche de médias pour les ambiances sonores.
 
 
 ### Défis pour la prochaine semaine
-
+Faire une ambiance sonore pour pouvoir la tester avec le set up son dans le lieu.
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
