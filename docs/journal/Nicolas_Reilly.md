@@ -92,28 +92,29 @@ Faire des rencontre plus régulière afin de savoir où est rendu tout le monde.
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
+- Mon équipe et moi sommes allés au collège lundi pour faire des test dans le petit studio
+- Avancement du patcher Max
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Photo de nous dans le petit studio.](medias/journal_week2_NR.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Le but de cette semaine était de se faire une idée de quoi notre projet allait avoir l'air en studio et d'avancer le patcher Max pour les vidéos.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -125,6 +126,8 @@ Faire des rencontre plus régulière afin de savoir où est rendu tout le monde.
 
 
 ### Défis pour la prochaine semaine
+- Avancer le patcher Max
+- Aller au studio lundi
 
 ---
 ## Semaine 3 (13 au 19 février)
