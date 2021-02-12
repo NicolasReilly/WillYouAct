@@ -120,6 +120,7 @@ x
 
 ### Défis pour la prochaine semaine
 Un suivi sur l'avancement global du projet nottamment (Madmapper et le test avec max en output avec les projecteurs).
+
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
