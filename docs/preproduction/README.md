@@ -63,7 +63,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/PlanTechniqueUp1.jpg)
+![exemple de schema](medias/PlanTechniqueUp2.jpg)
 
 ### Plantation 
 
