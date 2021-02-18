@@ -131,28 +131,28 @@ Faire une ambiance sonore pour pouvoir la tester avec le set up son dans le lieu
 
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+Création d'un prototype sonore et mise des équipements dans la salle.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image5](medias/journal_ndz_w3.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai terminé le prototype.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -163,7 +163,8 @@ Faire une ambiance sonore pour pouvoir la tester avec le set up son dans le lieu
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
-### Défis pour la prochaine semaine
+### Défis pour la prochaine semaine 
+Faire une maquette du son qui marche avec les vidéos.
 
 ---
 ## Semaine 4 (20 au 26 février)
