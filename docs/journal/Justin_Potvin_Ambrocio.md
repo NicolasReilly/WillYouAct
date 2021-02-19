@@ -139,39 +139,43 @@ Avancement au niveau de projection et montage vidéo
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+Essaies de MadMapper avec les projecteurs et les vidéos dans le petit studio pour voir fonctionnement.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Image MadMapper](medias/Journal_jpa_madmapper.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+
+L'essaie fonctionne de manière souhaité.
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
+Utilisation de MadMapper avec 3 projecteurs et regarder l'intégration vers Max
 
 ---
 ## Semaine 4 (20 au 26 février)
