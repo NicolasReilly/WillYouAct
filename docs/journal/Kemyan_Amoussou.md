@@ -124,40 +124,40 @@ Un suivi sur l'avancement global du projet nottamment (Madmapper et le test avec
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+Test de la logique de Max pour avoir une bonne idée de l'intégration avec la kinect et le bounton.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Max](medias/MaxBoutonLogique.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Le test avec une signal OSC (de chez moi avec mon cellulaire) et la detection se fait bien et le code est censée et facile a comprendre
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
-
+Plus de test avec la kinect et le bouton (nottament le pulse), test avec la lumiere (si elle est livrée).
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
