@@ -17,7 +17,7 @@
 - Retour sur le projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](https://camo.githubusercontent.com/ab09afa8c45eb163473da5e9322a9d09234352f359964bb7aa7958de9cd1bcdb/68747470733a2f2f692e696d6775722e636f6d2f70724d505447392e706e67)
+![projet unity](https://camo.githubusercontent.com/ab09afa8c45eb163473da5e9322a9d09234352f359964bb7aa7958de9cd1bcdb/68747470733a2f2f692e696d6775722e636f6d2f70724d505447392e706e67)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -132,28 +132,28 @@ Faire des rencontre plus régulière afin de savoir où est rendu tout le monde.
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+Je suis allée au petit studio lundi et mardi pour avancer notre installation. On a installé les haut-parleurs et les projecteurs au plafond et ils sont fonctionnels. Nous avons aussi déplacé le chariot pc dans la régie.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![mon équipe et moi dans le petit studio pour la préparation du prototype](medias/journal_week3_NR.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Cette semaine, notre but était d'avancer l'installation de notre projet dans le petit studio et selon moi, nous avons très bien avancé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -165,7 +165,8 @@ Faire des rencontre plus régulière afin de savoir où est rendu tout le monde.
 
 
 ### Défis pour la prochaine semaine
-
+- Finaliser les éléments manquant pour le prototype.
+- Avancer le projet en espace. 
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
