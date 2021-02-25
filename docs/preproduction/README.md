@@ -94,11 +94,11 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
 * Lumière
     * 1 Slim par PRO H USB
     * 1 cinefoil
-    * 3 5px Hex
+    * 4 5px Hex
    
 * Électricité
     * 1 Extension électrique
-    * 7 câbles XLR 25'
+    * 8 câbles XLR 25'
     * 8 câbles HDMI 10'
     * 1 transformateur DMX USB vers XLR
     * 3 Adapteurs HDMI-Ethernet (Envoyeur/receveur)
@@ -115,7 +115,7 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
     * 3 Toiles projecteur
     * Bouton Arduino ( Fourni ) 
     * Sony A6000 + Kit alimentation + Extendeur réseau HDMI + Carte de capture HDMI
-    * 11 safety
+    * 12 safety
     
 
 ## Logiciels requis
