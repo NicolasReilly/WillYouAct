@@ -24,7 +24,7 @@
 
 # Intention ou concept
 ## Synopsis
-_Will You Act_ est une expérience interactive qui donne le choix aux participants d'interagir avec le monde qui leur est présenté.C’est une expérience immersive et interactive qui sensibiliseras contre les injustices envers l’individu avec des projections et le choix de pouvoir « ACT ».
+_Will You Act_ est une expérience interactive qui donne le choix aux participants d'interagir avec le monde qui leur est présenté. C’est une expérience immersive et interactive qui sensibiliseras contre les injustices envers l’individu avec des projections et le choix de pouvoir « ACT ».
 
 ## Intention de départ
 Par ce projet, nous souhaitons sensibiliser les participants à penser à tout ce qui pourrait être considéré comme injustice au niveau racial, social. Nous visons donc quelque part un rassemblement de nos participants à comme un semblant de lutte populaire.  
