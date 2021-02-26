@@ -161,40 +161,40 @@ Plus de test avec la kinect et le bouton (nottament le pulse), test avec la lumi
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
+Gros avancement du patcher max. La détection avec la kinect fonctionne bien, Le bouton lance la bonne vidéo, le pulse du bouton fonctionne aussi.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Max](medias/PatcherMax.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+La logique de lecture de vidéo est un peu buggé donc il faudrais l'arranger, on arrive a un loop infini mais autre que ca tous les objectifs on été atteints
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Faire plus de recherche coté lecture de vidéos
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
-
+Des tests avec les lumieres installés sur max et Q light controller plus
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
