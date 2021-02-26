@@ -170,28 +170,29 @@ Je suis allée au petit studio lundi et mardi pour avancer notre installation. O
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
-
+- On a installé le tissu de projection sur un mur.  
+- On a fait fonctionné le bouton avec Max8.
+- On a fait fonctionné la kinect avec Max8.
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![projection sur toile au mur](medias/journal_week4_NR.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nous avons bien avancé notre installation et notre projet avance selon notre échéance.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -203,7 +204,9 @@ Je suis allée au petit studio lundi et mardi pour avancer notre installation. O
 
 
 ### Défis pour la prochaine semaine
-
+- Pour la prochaine semaine, nous allons intaller les lumières au plafond et faire des test avec qlc+.
+- Avancer le patcher Max8.
+- Test avec MadMapper. 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
