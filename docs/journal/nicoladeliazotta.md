@@ -169,29 +169,29 @@ Faire une maquette du son qui marche avec les vidéos.
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
+J'ai refais tout le branchement dans le studio pour pouvoir mettre notre ordinateur dans la salle au lieu de la régis, j'ai installé la première toile pour afficher nos vidéos et j'ai installé le "sub-woofer".
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image6](medias/journal_ndz_w4.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Je me suis concentré sur le prototype qu'il fallait remettre cette semaine donc je n'ai pas eu le temps de faire une maquette pour le son.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Recommencer à faire le son. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -202,6 +202,7 @@ Faire une maquette du son qui marche avec les vidéos.
 
 
 ### Défis pour la prochaine semaine
+Mettre tout les toiles et installer l'éclairage dans le studio. 
 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
