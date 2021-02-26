@@ -174,7 +174,7 @@ Je suis allée au petit studio lundi et mardi pour avancer notre installation. O
 - On a fait fonctionné le bouton avec Max8.
 - On a fait fonctionné la kinect avec Max8.
 ### Image d'une réalisation dont tu es la ou le plus fier
-![projection sur toile au mur](medias/journal_week4_NR.PNG)
+![projection sur toile au mur](medias/journal_week4_NR.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
