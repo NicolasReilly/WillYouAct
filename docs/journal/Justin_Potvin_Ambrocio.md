@@ -181,38 +181,44 @@ Utilisation de MadMapper avec 3 projecteurs et regarder l'intégration vers Max
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
 
+Vidéos longue(5760x1080) pour la projection de vidéo sur MadMapper. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+![video_longue](medias/Journal_jpa_video.jpg)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+
+C'est la tâche dont je voulais faire pour cette semaine et c'était un défi considérant la taille de la vidéo.
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
+Idéalement projection des vidéos sur les trois murs à partir des projecteurs et MadMapper/Max.
 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
