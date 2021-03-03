@@ -92,9 +92,8 @@ Par ce projet, nous souhaitons sensibiliser les participants à penser à tout c
     * 1 Kinect V1
 
 * Lumière
-    * 1 Slim par PRO H USB
+    * 5 Slim par PRO H USB
     * 1 cinefoil
-    * 4 5px Hex
    
 * Électricité
     * 1 Extension électrique
