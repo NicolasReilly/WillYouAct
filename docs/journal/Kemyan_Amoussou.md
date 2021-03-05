@@ -193,45 +193,45 @@ x
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 x
 
-### Défis pour la prochaine semaine
-Des tests avec les lumieres installés sur max et Q light controller plus
+#### Défis pour la prochaine semaine
+Des tests avec les lumieres installés sur max et Q light controller plus.
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
-
+Avancement de la logique de max 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![MaxUp](medias/MaxUpdate.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai un prototype qui marche a peut pret mais il reste encore quelque bugs ici et la sur le fonctionnement de la lecture des vidéos
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Faire d'autres test pour évualuer un peu les différentes possibilités
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+x
 
-
-### Défis pour la prochaine semaine
-
+#### Défis pour la prochaine semaine
+Continuer a faire des tests pour la logique de lecture de vidéos.
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
