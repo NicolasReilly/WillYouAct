@@ -224,38 +224,42 @@ Idéalement projection des vidéos sur les trois murs à partir des projecteurs 
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
 
+Modification de photos pour le site et verification de matériel.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Photo modification](medias/Journal_jpa_photos.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+ C'était une semaine d'extra pour nous et on faisait les tâches qu'on avait sur GitHub et on clarifiait ce qu'on a à faire pour les semaines qui s'en viennent.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
+Changements au niveau des vidéos et liste de sources.
+
 
 ---
 ## Semaine 5 (6 au 12 mars)
