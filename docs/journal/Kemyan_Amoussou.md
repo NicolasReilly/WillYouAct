@@ -118,7 +118,7 @@ x
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 x
 
-### Défis pour la prochaine semaine
+# Défis pour la prochaine semaine
 Un suivi sur l'avancement global du projet nottamment (Madmapper et le test avec max en output avec les projecteurs).
 
 ---
@@ -156,7 +156,7 @@ x
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 x
 
-### Défis pour la prochaine semaine
+# Défis pour la prochaine semaine
 Plus de test avec la kinect et le bouton (nottament le pulse), test avec la lumiere (si elle est livrée).
 ---
 ## Semaine 4 (20 au 26 février)
@@ -230,7 +230,7 @@ x
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 x
 
-#### Défis pour la prochaine semaine
+# Défis pour la prochaine semaine.
 Continuer a faire des tests pour la logique de lecture de vidéos.
 ---
 ## Semaine 5 (6 au 12 mars)
