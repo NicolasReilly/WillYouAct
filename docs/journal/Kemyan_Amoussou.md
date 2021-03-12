@@ -156,8 +156,10 @@ x
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 x
 
-# Défis pour la prochaine semaine
+### Défis pour la prochaine semaine
 Plus de test avec la kinect et le bouton (nottament le pulse), test avec la lumiere (si elle est livrée).
+
+
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
@@ -195,6 +197,7 @@ x
 
 #### Défis pour la prochaine semaine
 Des tests avec les lumieres installés sur max et Q light controller plus.
+
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
@@ -230,8 +233,10 @@ x
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 x
 
-# Défis pour la prochaine semaine.
+### Défis pour la prochaine semaine
 Continuer a faire des tests pour la logique de lecture de vidéos.
+
+
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
@@ -269,6 +274,8 @@ x
 
 ### Défis pour la prochaine semaine
 Optimisation du patcher max
+
+
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
