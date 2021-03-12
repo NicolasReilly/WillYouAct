@@ -207,21 +207,21 @@ Mettre tout les toiles et installer l'éclairage dans le studio.
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
-
+Mettre les toile, reinstallation des hauts parleurs, concrétisation du Max.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image7](medias/journal_ndz_w5.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ La toile à été installée.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -230,42 +230,43 @@ Mettre tout les toiles et installer l'éclairage dans le studio.
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Besoin de voir comment le son dans Max fonctionne pour finaliser ambiance sonore.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Faire des recherches, demander de l'aide.
 
 ### Défis pour la prochaine semaine
+Régler les problèmes avec le son et faire le montage de l'ambiance sonore.
 
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
-
+Problèmes avec le son réglés et aboutisement du montage de l'ambiance sonore.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image8](medias/journal_ndz_w6.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ On a réglé le problème avec le son et on peut jouer l'ambiance sur les trois haut-parleurs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -277,6 +278,7 @@ Mettre tout les toiles et installer l'éclairage dans le studio.
 
 
 ### Défis pour la prochaine semaine
+Finaliser l'ambiance sonore et faire des paufinements.
 
 ---
 ## Semaine 6 (13 au 19 mars)
