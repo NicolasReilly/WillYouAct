@@ -210,28 +210,29 @@ Je suis allée au petit studio lundi et mardi pour avancer notre installation. O
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
-
+- Installation de la deuxième toile.
+- Ajustement de la position des haut-parleurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![installation 2 toiles](medias/journal_relache_NR.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Il ne reste pas grand chose à installer donc on aura le temps de tout finir à temps.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -243,32 +244,36 @@ Je suis allée au petit studio lundi et mardi pour avancer notre installation. O
 
 
 ### Défis pour la prochaine semaine
-
+- Installer la dernière toile.
+- Ajuster les élément au plafond.
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
-
+- Installation de la troisième toile.
+- Ajustement de la position des projecteurs, lumières et kinect.
+- Déplacement du PC dans la régie.
+- Recablage
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![installation 3 toiles](medias/journal_week5_NR.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Il ne reste que l'organisation des cables à faire pour la semaine prochaine, donc je considère que j'ai bien fait ma partie.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -280,7 +285,7 @@ Je suis allée au petit studio lundi et mardi pour avancer notre installation. O
 
 
 ### Défis pour la prochaine semaine
-
+- Finir le ménage des cables.
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
