@@ -265,38 +265,41 @@ Changements au niveau des vidéos et liste de sources.
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
 
+MadMapper et projection, tailler la zone de projection et passer tous les vidéos sous ce format.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Photo modification](medias/Journal_jpa_projection.JPEG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+Tout ce qui était à faire pour cette semaine est accompli.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
+Finalization et test de l'ensemble.
 
 ---
 ## Semaine 6 (13 au 19 mars)
