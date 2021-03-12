@@ -235,40 +235,40 @@ Continuer a faire des tests pour la logique de lecture de vidéos.
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
-
+Fin du patcher max, les coté sonores et vidéos ( la logique pour les jouer et faire le choix ), les lumieres d'ambiances fonctionnent bien aussi avec les boutons et les moments ou il faut qu'elles s'allument ou s'éteignent.    
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![MaxUp](medias/MaxPatcherFinal.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Le patcher est complet, il faut juste relier certains objets pour le finaliser completement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
-
+Optimisation du patcher max
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
