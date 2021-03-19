@@ -289,28 +289,29 @@ Je suis allée au petit studio lundi et mardi pour avancer notre installation. O
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
-
+- J'ai finalisé l'organisation du cablage au plafond et vers l'ordinateur.
+- J'ai fait le javascript pour le site web de notre projet.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![finalisation du projet](medias/journal_week6_NR.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Donc tout le nécessaire a été effectué pour finir notre projet
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -322,3 +323,4 @@ Je suis allée au petit studio lundi et mardi pour avancer notre installation. O
 
 
 ### Défis pour la prochaine semaine
+Que tout fonctionne bien pour le direct sur youtube.
