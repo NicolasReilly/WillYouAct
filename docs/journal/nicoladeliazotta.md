@@ -284,27 +284,28 @@ Finaliser l'ambiance sonore et faire des paufinements.
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
 
+Finalisation de l'ambiance sonore et finalisation du projet.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image9](medias/journal_ndz_w7.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai réussi à terminer le son pour pouvoir faire les tests et finir le projet.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -316,3 +317,5 @@ Finaliser l'ambiance sonore et faire des paufinements.
 
 
 ### Défis pour la prochaine semaine
+
+Faire un belle présentation.
