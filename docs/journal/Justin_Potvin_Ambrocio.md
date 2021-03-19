@@ -307,33 +307,34 @@ Finalization et test de l'ensemble.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Photo fin](medias/Journal_jpa_finalization.JPEG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Tout ce qui était dû pour la dernière semaine en terme de vidéo est complété et le projet a l'air très bien.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
+Completion du projet et s'assurer que tout se déroule correctement.
